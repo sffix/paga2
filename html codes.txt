@@ -1,0 +1,47 @@
+meta forms
+-to select languages:<meta charset=''utf_8''/>
+-to selcet content for helping the search engines:
+<meta name="description" content="ai not yay yes ,ice"/>
+body forms
+for titles : <h1></h1>
+for paragraphs : <p></p>
+to do under line:
+<u>.......</u>
+to do delet effect:
+<del></del>
+to do bald effect :
+<b></b>
+to do under writing : <sub></sub>
+to do above writing : <sup></sub>
+to desgin the text :<font></font>
+for color=color 
+for size=size
+for fonts=face
+for text position : (inside body) align= right or left or center
+for text direction : (inside body) dir=rtl or ltr
+for tables : 
+<table border,bgcolor >
+for raws:<tr (rawspan) ></tr>
+for colons:<td (colspan) >/<td>
+</table>
+for links : <a href=(the link) target=_blank(to open in other page >wher link takes</a>
+for images :<img src=(the photo name) alt=(any thing) width=.. height=.. >
+for videos :<video src=(the source) poster=(thamb nail) controls(for buttons) ></video>
+for audios :<audio src=(the source) muted controls preload=metadata ></audio> 
+for lists :<ol type=a or i or 1 >
+           <li> </li> 
+           </ol>
+          <ul type=a or i or 1 >
+           <li> </li> 
+           </ul>
+for choices button :<details>
+                    <summary>(title)</summary>
+                    (the choices)
+                    </details>
+for pdf or gif :<embed src=(pdf or gif) > 
+for buttons :<input type=(learn later) >
+                        or
+             <button type=(learn later) > (title) </button>
+to send data to the site :<form>
+                          <input type=email or tel or number or password placeholder=(to put descriptipn there >
+                          </form> 
